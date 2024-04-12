@@ -23,4 +23,4 @@ while running:
 
 
 # Деинициализирует все модули pygame, которые были инициализированы ранее.
-pygame.quit() 
+pygame.quit()
